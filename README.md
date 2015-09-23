@@ -1,2 +1,2 @@
 # aws-sdk-demo
-Demonstrating the AWS SDK for Java Sept 22
+Demonstrating the AWS SDK for Java
